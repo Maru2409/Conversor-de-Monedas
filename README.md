@@ -1,7 +1,4 @@
-<em> Conversor de Monedas </em>
-
-
-<h1> 🪙 Currency Exchange </h1>
+<h1> 🪙 Conversor de Monedas </h1>
 Aplicación Java (Alura Latam Challange) para conversión de divisas en tiempo real usando ExchangeRate-API.
 
 <h1> 🚀 Características </h1>
